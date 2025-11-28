@@ -527,42 +527,9 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
 ## 👥 Authors
 
 - **Sujay SAK** - [@SujaySAK777](https://github.com/SujaySAK777)
-
----
-
-## 🙏 Acknowledgments
-
-- **Indian E-Commerce Dataset** - 50K products dataset
-- **Apache Kafka** - Distributed event streaming platform
-- **Supabase** - Open-source Firebase alternative
-- **Unsplash** - Product image resources
-- **React Community** - Amazing ecosystem
-
----
-
-## 📞 Contact
-
-For questions or support:
-
-- GitHub: [@SujaySAK777](https://github.com/SujaySAK777)
-- Project Link: [https://github.com/SujaySAK777/StreamIQ](https://github.com/SujaySAK777/StreamIQ)
-
----
-
-## 🌟 Star History
-
-If you found this project helpful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SujaySAK777/StreamIQ&type=Date)](https://star-history.com/#SujaySAK777/StreamIQ&Date)
 
 ---
 
